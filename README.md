@@ -30,9 +30,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/interactive-rating-app-made-using-html-css-and-js-cQA40VtphT)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-app-made-using-html-css-and-js-cQA40VtphT)
 
-- Live Site URL: (https://ahmedchannani.github.io/intteractive-rating-app/)
+- Live Site URL: [Add live site URL here](https://ahmedchannani.github.io/intteractive-rating-app/)
 
 
 
